@@ -6,13 +6,15 @@
 
 ## サンプルコード(章立て)
 
-[chapter_code]()
+- [chapter_code](https://github.com/kagami-tsukimura/practical-vim-practical/tree/main/chapter_code)
 
 ## 紹介記事(Qiita)
 
-- [Qiita]()
+- [Qiita](https://qiita.com/kagami_t)
+- [第1章](https://qiita.com/kagami_t/items/623a56f52d10660f72ec)
+- [第2章]()
 
 ## サンプルコード(原文)
 
-[code]()
+- [code](https://github.com/kagami-tsukimura/practical-vim-practical/tree/main/code)
 
